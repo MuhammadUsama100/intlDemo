@@ -1,0 +1,20 @@
+{
+ "title": "GSOC 2020",
+  "@title": {
+    "description": "这是GSOC 2020的演示代码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "text": "你好达特，这是穆罕默德·乌萨马（Muhammad Usama）的讲话",
+  "@text": {
+    "description": "这是GSOC 2020的演示代码",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appBar": "intl 演示申请",
+  "@appBar": {
+    "description": "这是GSOC 2020的演示代码",
+    "type": "text",
+    "placeholders": {}
+  }
+}

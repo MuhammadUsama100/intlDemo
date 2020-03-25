@@ -1,0 +1,20 @@
+{
+  "title": "GSOC 2020",
+  "@title": {
+    "description": "یہ GSOC 2020 کا ایک ڈیمو کوڈ ہے",
+    "type": "text",
+    "placeholders": {}
+  },
+  "text": "ہیلو ڈارٹ یہ محمد اسامہ بول رہے ہیں",
+  "@text": {
+    "description": "یہ GSOC 2020 کا ایک ڈیمو کوڈ ہے",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appBar": "intl ڈیمو کی درخواست",
+  "@appBar": {
+    "description": "یہ GSOC 2020 کا ایک ڈیمو کوڈ ہے",
+    "type": "text",
+    "placeholders": {}
+  }
+}

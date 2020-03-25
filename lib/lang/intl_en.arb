@@ -1,0 +1,20 @@
+{
+  "title": "GSOC 2020",
+  "@title": {
+    "description": "This is a Demo Code For GSOC 2020",
+    "type": "text",
+    "placeholders": {}
+  },
+  "text": "Hello Dart this is Muhammad Usama speaking",
+  "@text": {
+    "description": "This is a Demo Code For GSOC 2020",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appBar": "intl Demo Application",
+  "@appBar": {
+    "description": "This is a Demo Code For GSOC 2020",
+    "type": "text",
+    "placeholders": {}
+  }
+}
